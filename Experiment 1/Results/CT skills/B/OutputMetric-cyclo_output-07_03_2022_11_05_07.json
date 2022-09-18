@@ -1,0 +1,45 @@
+[
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodName": "27,36",
+            "CYCLO": 1
+          }
+        ],
+        "className": "\"Stage\""
+      },
+      {
+        "classMethods": [
+          {
+            "MethodName": "7,15",
+            "CYCLO": 2
+          },
+          {
+            "MethodName": "5,530",
+            "CYCLO": 2
+          },
+          {
+            "MethodName": "12,710.4",
+            "CYCLO": 7
+          },
+          {
+            "MethodName": "5,180",
+            "CYCLO": 2
+          },
+          {
+            "MethodName": "9,455",
+            "CYCLO": 1
+          }
+        ],
+        "className": "\"Avery\""
+      }
+    ],
+    "packageName": "N/R",
+    "classesCount": 2,
+    "avgCyclo": 2.5,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  }
+]

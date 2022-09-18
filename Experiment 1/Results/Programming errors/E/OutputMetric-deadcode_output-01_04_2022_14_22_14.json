@@ -1,0 +1,51 @@
+[
+  {
+    "packageClasses": [
+      {
+        "className": "\"Stage\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"Objeto1\"",
+        "deadCodeCount": 1
+      },
+      {
+        "className": "\"meta\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"tabla\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"ruleta\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"pua\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"aeroplano\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"botón\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"aeroplano 2\"",
+        "deadCodeCount": 0
+      },
+      {
+        "className": "\"Sprite1\"",
+        "deadCodeCount": 0
+      }
+    ],
+    "packageName": "N/R",
+    "classesCount": 10,
+    "avgCyclo": 0.0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "170,121"
+          }
+        ],
+        "className": "\"Objeto2\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "177,61"
+          }
+        ],
+        "className": "\"Objeto3\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 5,
+              "logical": 0,
+              "comparison": 7
+            },
+            "MethodName": "890,496"
+          }
+        ],
+        "className": "\"Speaker2\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 5,
+              "logical": 1,
+              "comparison": 8
+            },
+            "MethodName": "58,15"
+          }
+        ],
+        "className": "\"Speaker\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "165,147"
+          }
+        ],
+        "className": "\"Khalid Dance\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "63,107"
+          }
+        ],
+        "className": "\"Champ99\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "10,10"
+          }
+        ],
+        "className": "\"Stage\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  }
+]

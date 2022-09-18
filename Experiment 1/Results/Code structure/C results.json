@@ -1,0 +1,198 @@
+[
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 1,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 1,
+              "ForStatement": 1,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "10,10"
+          },
+          {
+            "MethodStatements": {
+              "IfStatement": 1,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 1,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "18,405"
+          }
+        ],
+        "className": "\"Bola\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "10,10"
+          },
+          {
+            "MethodStatements": {
+              "IfStatement": 1,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 1,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "10,83"
+          },
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "118,433"
+          },
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 0,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "454,409"
+          }
+        ],
+        "className": "\"miProyectil\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 1,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "10,10"
+          }
+        ],
+        "className": "\"mira\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  },
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodStatements": {
+              "IfStatement": 1,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 1,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "10,10"
+          },
+          {
+            "MethodStatements": {
+              "IfStatement": 0,
+              "ElseIfStatement": 0,
+              "ElseStatement": 0,
+              "WhileStatement": 1,
+              "ForStatement": 0,
+              "DoWhileStatement": 0
+            },
+            "MethodOperators": {
+              "arithmetic": 0,
+              "logical": 0,
+              "comparison": 0
+            },
+            "MethodName": "5,250"
+          }
+        ],
+        "className": "\"EstrellaDeMar\""
+      }
+    ],
+    "packageName": "",
+    "classesCount": 0,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "packageClasses": [
+      {
+        "classMethods": [
+          {
+            "MethodName": "82,32",
+            "CYCLO": 1
+          }
+        ],
+        "className": "\"Escenario\""
+      },
+      {
+        "classMethods": [
+          {
+            "MethodName": "54,53",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "221,59",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "216,90",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "95,97",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "59,232",
+            "CYCLO": 1
+          }
+        ],
+        "className": "\"Dani\""
+      },
+      {
+        "classMethods": [
+          {
+            "MethodName": "13,137",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "12,250",
+            "CYCLO": 2
+          },
+          {
+            "MethodName": "24,369",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "34,535",
+            "CYCLO": 2
+          },
+          {
+            "MethodName": "560,588",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "181,75",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "192,148",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "326,44",
+            "CYCLO": 4
+          },
+          {
+            "MethodName": "299.2,339.5",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "347,577",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "518,505",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "12,22",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "667,465",
+            "CYCLO": 1
+          },
+          {
+            "MethodName": "295,384",
+            "CYCLO": 1
+          }
+        ],
+        "className": "\"Isabelita\""
+      }
+    ],
+    "packageName": "N/R",
+    "classesCount": 3,
+    "avgCyclo": 1.25,
+    "ANDC": 0.0,
+    "AHH": 0.0
+  }
+]
